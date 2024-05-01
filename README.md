@@ -1,4 +1,4 @@
-# myapp
+# ChatBot Using Gemini Api
 
 A new Flutter project.
 
